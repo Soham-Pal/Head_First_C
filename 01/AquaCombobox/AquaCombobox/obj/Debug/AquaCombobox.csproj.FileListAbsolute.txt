@@ -1,0 +1,15 @@
+C:\Users\CodeDummy\source\repos\AquaCombobox\AquaCombobox\bin\Debug\AquaCombobox.exe.config
+C:\Users\CodeDummy\source\repos\AquaCombobox\AquaCombobox\bin\Debug\AquaCombobox.exe
+C:\Users\CodeDummy\source\repos\AquaCombobox\AquaCombobox\bin\Debug\AquaCombobox.pdb
+C:\Users\CodeDummy\source\repos\AquaCombobox\AquaCombobox\obj\Debug\AquaCombobox.csprojAssemblyReference.cache
+C:\Users\CodeDummy\source\repos\AquaCombobox\AquaCombobox\obj\Debug\MainWindow.g.cs
+C:\Users\CodeDummy\source\repos\AquaCombobox\AquaCombobox\obj\Debug\App.g.cs
+C:\Users\CodeDummy\source\repos\AquaCombobox\AquaCombobox\obj\Debug\AquaCombobox_MarkupCompile.cache
+C:\Users\CodeDummy\source\repos\AquaCombobox\AquaCombobox\obj\Debug\AquaCombobox_MarkupCompile.lref
+C:\Users\CodeDummy\source\repos\AquaCombobox\AquaCombobox\obj\Debug\MainWindow.baml
+C:\Users\CodeDummy\source\repos\AquaCombobox\AquaCombobox\obj\Debug\AquaCombobox.g.resources
+C:\Users\CodeDummy\source\repos\AquaCombobox\AquaCombobox\obj\Debug\AquaCombobox.Properties.Resources.resources
+C:\Users\CodeDummy\source\repos\AquaCombobox\AquaCombobox\obj\Debug\AquaCombobox.csproj.GenerateResource.cache
+C:\Users\CodeDummy\source\repos\AquaCombobox\AquaCombobox\obj\Debug\AquaCombobox.csproj.CoreCompileInputs.cache
+C:\Users\CodeDummy\source\repos\AquaCombobox\AquaCombobox\obj\Debug\AquaCombobox.exe
+C:\Users\CodeDummy\source\repos\AquaCombobox\AquaCombobox\obj\Debug\AquaCombobox.pdb
